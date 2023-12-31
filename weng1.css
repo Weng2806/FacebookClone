@@ -1,0 +1,28 @@
+form {
+    display: flexbox;
+    position: relative;
+    top: 250px;
+    max-width: 500px;
+    margin: auto;
+    left: 180px;
+}
+div {
+    animation-name: owie;
+    animation-duration: 1.5s;
+    background-color: blanchedalmond;
+    animation-iteration-count: infinite;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: larger;
+    padding: 20px;
+    margin-left: 500px;
+    margin-right: 500px;
+    border-radius: 9px;
+}
+@keyframes owie {
+    25% {background-color: burlywood;}
+    50% {background-color:darksalmon;}
+    75% {background-color: burlywood;}
+    100% {background-color: blanchedalmond;}
+    
+}

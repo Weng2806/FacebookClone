@@ -1,0 +1,230 @@
+/* Ruel Jr. P. Pamaran */
+
+body {
+    position: relative;
+    background-color: #f0f2f5;
+}
+
+
+hr, #pass, #email, input[type=submit], .haha, h6, .w{
+    position: relative;
+}
+
+.profile, .ruel, .fblogo, .btbkcmeronk{
+    position: absolute;
+}
+
+
+.profile, .w {
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border: 1px solid #d7dde4;
+}
+
+
+.profile {
+    top: 220px;
+    left: 215px;
+}
+
+
+.ruel {
+    bottom: -425px;
+    left: 215px;
+    font-family: SFProText-Regular, Helvetica, Arial, sans-serif;
+    background-color: #FFFFFF;
+    color: #606770;
+    padding-left: 61px;
+    padding-right: 63px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    font-size: 18px;
+    border-bottom-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+}
+
+
+.ruel, h1, h4, h6{
+    font-family: SFProText-Regular, Helvetica, Arial, sans-serif;
+}
+
+
+.fblogo {
+    top: 80px;
+    left: 220px;
+    margin: -20px;
+}
+
+
+h1, h4 {
+    font-weight: 100;
+    position: absolute;
+    left: 215px;
+}
+
+
+
+h4 {
+    top: 160px;
+    color: #606770;
+    font-size: 15px;
+    line-height: 13px;
+    margin-bottom: 0px;
+}
+
+
+h1 {
+    top: 123px;
+    font-size: 29px;
+
+}
+
+
+hr {
+    height:1px;
+    border-width: 0;
+    color:rgb(221, 221, 221);
+    background-color:rgb(219, 219, 219);
+    top: -50px;
+}
+
+
+.btbkcmeronk {
+    border-radius: 8px;
+    background-color: #ffffff;
+    padding: 50px;
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-bottom: 40px;
+    top: 122px;
+    right: 230px;
+}
+
+
+#email, #pass {
+    font-weight: 500;
+    top: -50px;
+    width: 325px;
+    height: 24px;
+    border: 1px solid #d1d1d1;
+    border-radius: 5px;
+    padding: 12px 20px;
+    color: #8d8d8d;
+    font-family: Helvetica, sans-serif;
+    font-size: 17px;
+}
+
+
+
+#pass {
+    right: -4px;
+    height: 24px;
+}
+
+
+#email {
+    right: -5px;
+    width: 325px;
+    
+}
+
+
+input[type=submit] {
+    top: -55px;
+    right: -5px;
+    width: 367px;
+    line-height: 23px;
+    border: 1px solid #d1d1d1;
+    border-radius: 7px;
+    padding: 12px 20px;
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+    background-color:#1877f2;
+
+}
+
+
+.haha {
+    text-decoration: none;
+    display: flex;
+    top: -50px;
+    left: 130px;
+    font-family: Helvetica, sans-serif;
+    color:#1877f2;
+    font-size: 12px;
+    font-weight: lighter;
+}
+
+
+button {
+    border: none;
+    color: white;
+    padding: 15px 20px;
+    text-align: center;
+    display: flex;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    background-color:#42b72a ;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    border-radius: 5px;
+    top: 275px;
+    right: 90px;
+    position: inherit;
+}
+
+
+.page {
+    text-decoration: none;
+    color:#1c1e21;
+    font-weight: bold;
+}
+
+
+.page:hover {
+    border-bottom: 1px solid #1c1e21;
+    margin: 0px;
+    padding-bottom: -10px;
+
+}
+
+
+h6 {
+    float: right;
+    top: 470px;
+    right: 276px;
+    font-size: 14px;
+    font-weight: normal;
+    padding-top: 0;
+    border-top: none;
+    color: #1c1e21;
+}
+
+
+.w {
+    background: #ffffff;
+    padding: 20px; 
+    width: 120px;
+    height: 120px;  
+    left: 395px;
+    top: 221px;
+}
+
+
+.iloveyou {
+    background-image: url(plus.png);
+    background-position: center;
+    padding: 20px;
+    width: 200px;
+    height: 150px;
+}
+
+
+.uhm {
+    text-decoration: none;
+    color: #ffffff;
+}
+
